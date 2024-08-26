@@ -1,5 +1,5 @@
 import pandas as pd
-import scipy.stats
+from scipy import stats
 import streamlit as st
 import time
 
